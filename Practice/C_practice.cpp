@@ -8,6 +8,8 @@ int main()
     for(i=1;i<=n;i++){
         f=f*i;
     }
-    cout<<"  ";
+    cout<<"factorial is given by:";
     cout<<f;
+    cout<<"practicing git conflicts"
+    return 0;
 }
