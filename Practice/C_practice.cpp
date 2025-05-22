@@ -2,8 +2,9 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello";
-    int a,b=5;
-    cout<<b;
-    return 0;
+    int f=1,i;
+    for(i=1;i<=5;i++){
+        f=f*i;
+    }
+    cout<<f;
 }
