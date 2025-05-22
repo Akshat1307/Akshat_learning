@@ -8,5 +8,6 @@ int main()
     for(i=1;i<=n;i++){
         f=f*i;
     }
+    cout<<"factorial is";
     cout<<f;
 }
