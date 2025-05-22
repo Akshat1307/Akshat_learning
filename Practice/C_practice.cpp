@@ -7,4 +7,6 @@ int main()
         f=f*i;
     }
     cout<<f;
+    cout<<"practicing git conflicts"
+    return 0;
 }
